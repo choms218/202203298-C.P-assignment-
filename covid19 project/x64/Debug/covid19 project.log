@@ -1,0 +1,32 @@
+﻿  option 1-1.c
+C:\Users\대한가스산업\source\repos\covid19 project\option 1-1.c(11,12): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 1-1.c(11,9): warning C4024: 'fgets': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 1-1.c(12,11): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 1-1.c(39,13): warning C4013: 'graph_size'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 1-1.c(43,13): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 1-1.c(43,15): warning C4098: 'option_1_1': 'void' 함수에서 값을 반환하고 있습니다.
+  option 2-1.c
+C:\Users\대한가스산업\source\repos\covid19 project\option 2-1.c(12,12): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 2-1.c(12,9): warning C4024: 'fgets': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 2-1.c(13,11): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 2-1.c(40,13): warning C4013: 'graph_size'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 2-1.c(44,13): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 2-1.c(44,15): warning C4098: 'option_2_1': 'void' 함수에서 값을 반환하고 있습니다.
+  option 3-1.c
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-1.c(12,12): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-1.c(12,9): warning C4024: 'fgets': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-1.c(13,11): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-1.c(40,13): warning C4013: 'graph_size'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-1.c(44,13): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-1.c(44,15): warning C4098: 'option_3_1': 'void' 함수에서 값을 반환하고 있습니다.
+  option 3-2.c
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c(10,12): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c(10,9): warning C4024: 'fgets': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c(17,11): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c(19,13): warning C4013: 'graph_size'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c(25,13): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\대한가스산업\source\repos\covid19 project\option 3-2.c(25,15): warning C4098: 'option_3_2': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
+  covid19 project.vcxproj -> C:\Users\대한가스산업\source\repos\covid19 project\x64\Debug\covid19 project.exe

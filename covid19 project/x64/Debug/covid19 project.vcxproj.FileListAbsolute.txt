@@ -1,0 +1,2 @@
+C:\Users\대한가스산업\source\repos\covid19 project\x64\Debug\covid19 project.exe
+C:\Users\대한가스산업\source\repos\covid19 project\x64\Debug\covid19 project.pdb
